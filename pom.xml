@@ -86,7 +86,7 @@
   </mailingLists>
 
   <modules>
-    <module>common/sketch</module>
+    <!--module>common/sketch</module>
     <module>common/network-common</module>
     <module>common/network-shuffle</module>
     <module>common/unsafe</module>
@@ -103,15 +103,15 @@
     <module>assembly</module>
     <module>external/flume</module>
     <module>external/flume-sink</module>
-    <module>external/flume-assembly</module>
+    <module>external/flume-assembly</module-->
     <module>examples</module>
-    <module>repl</module>
+    <!--module>repl</module>
     <module>launcher</module>
     <module>external/kafka-0-8</module>
     <module>external/kafka-0-8-assembly</module>
     <module>external/kafka-0-10</module>
     <module>external/kafka-0-10-assembly</module>
-    <module>external/kafka-0-10-sql</module>
+    <module>external/kafka-0-10-sql</module-->
   </modules>
 
   <properties>
